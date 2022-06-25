@@ -1,0 +1,17 @@
+.nav-items{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-items span{
+    color: red;
+}
+.desktop-header .red-btn {
+    /* position: relative; */
+    text-align: right;
+    background-image: url(../Assets/btn1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    padding: 11px;
+}
